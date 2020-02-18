@@ -1,5 +1,3 @@
-i am adding this to mess with tags
-
 
 Gandalf the grey - always saving the day
 
@@ -13,5 +11,3 @@ apples and oranges
 peas and onions
 
 Saruman the white - always causing conflict; both in morder and in minas tirith
-
-froddo saves the day
